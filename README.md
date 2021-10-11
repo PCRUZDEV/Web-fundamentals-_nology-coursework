@@ -1,2 +1,2 @@
 # web-fundamentals
-Web fundamentals exercise from nology course utilising HTML.
+Web fundamentals exercise from nology course utilizing HTML.
