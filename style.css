@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color:  white;
+  background-color: white;
   max-width: 1400px;
   margin: auto;
 }
@@ -51,7 +51,11 @@ header h1 {
   border-radius: 30px;
 }
 
-h2, h3, h4, h5, h6 {
+h2,
+h3,
+h4,
+h5,
+h6 {
   text-decoration: underline;
   font-size: 30px;
 }
@@ -67,4 +71,8 @@ li:hover {
 span {
   font-size: 1.5em;
   color: #B48CE0;
+}
+
+i {
+  color: blue;
 }
